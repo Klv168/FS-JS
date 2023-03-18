@@ -3,9 +3,9 @@
 //var volume =  sisi * sisi * sisi;
 //console.log(volume)
 
-/*Luas Lingkaran*/
-var phi = 3.14
-var r = 7
-var L = phi * r * r
-console.log(L)
+// /*Luas Lingkaran*/
+// var phi = 3.14
+// var r = 7
+// var L = phi * r * r
+// console.log(L)
 
