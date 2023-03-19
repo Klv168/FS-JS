@@ -39,12 +39,26 @@ var murid = [
           [2, "udin", 3.0],
           [3, "mamang", 2.1]
      ]
-     console.log(murid[0][1] + ", IPK = " + murid[0][2], (murid [0][2] > 3 )?"Lulus":"Gagal");
+    //  console.log(murid[0][1] + ", IPK = " + murid[0][2], (murid [0][2] > 3 )?"Lulus":"Gagal");
 
-     if(murid[0][2] > 3){
-        console.log(murid[0][1] + ", IPK = " + murid[0][2]+ " , Lulus");
-     }
-     else{
-        console.log(murid[0][1] + ", IPK = " + murid [0][2] +" , Gagal");
-     }
+    //  if(murid[0][2] > 3){
+    //     console.log(murid[0][1] + ", IPK = " + murid[0][2]+ " , Lulus");
+    //  }
+    //  else{
+    //     console.log(murid[0][1] + ", IPK = " + murid [0][2] +" , Gagal");
+    //  }
 
+//      //Cara I
+//     for(i=0; i < murid.length ; i++){
+//         console.log(murid[i][1]+ " , IPK = "+ murid[i][2] + ((murid[i][2] >= 3 )?"Lulus":"Gagal"));
+// }
+
+    // //Cara II
+    // for(i=0; i < murid.length ; i++){
+    //     if(murid[i][2] >= 3){
+    //         console.log(murid[i][1] + ", IPK = " + murid[i][2] +", Lulus");
+    //     }
+    //     else{
+    //         console.log(murid[i][1] + ", IPK = " + murid[i][2] +", Gagal");
+    //     }
+    // }
