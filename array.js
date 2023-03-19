@@ -34,11 +34,11 @@
  * (syarat lulus IPK minimum 3.0)
  */
 
-var murid = [
-          [1, "vincent", 3.5],
-          [2, "udin", 3.0],
-          [3, "mamang", 2.1]
-     ]
+// var murid = [
+//           [1, "vincent", 3.5],
+//           [2, "udin", 3.0],
+//           [3, "mamang", 2.1]
+//      ]
     //  console.log(murid[0][1] + ", IPK = " + murid[0][2], (murid [0][2] > 3 )?"Lulus":"Gagal");
 
     //  if(murid[0][2] > 3){
@@ -62,3 +62,7 @@ var murid = [
     //         console.log(murid[i][1] + ", IPK = " + murid[i][2] +", Gagal");
     //     }
     // }
+
+    // var array1 =["cecil","lone"];
+    // var array2 =["emil","tobi","limus"];
+    // console.log(array1.concat(array2));
